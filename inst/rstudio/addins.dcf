@@ -1,0 +1,4 @@
+Name: rePath
+Description: Convert a Windows path on the clipboard to be R-friendly.
+Binding: rePath
+Interactive: false
